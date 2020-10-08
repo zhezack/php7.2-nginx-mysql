@@ -2,6 +2,8 @@
   
 # turn on bash's job control
 set -m
+
+./sbin/runit-wrapper &
   
 # Start the primary process and put it in the background
 chown -R www-data:www-data /var/www/html
