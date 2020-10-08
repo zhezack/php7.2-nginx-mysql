@@ -6,3 +6,4 @@ This repository include:
 - bash
 - php7.2-pdo_mysql
 - php7.2-mysqli
+- composer
